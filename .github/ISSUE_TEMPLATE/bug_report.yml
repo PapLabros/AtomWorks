@@ -44,4 +44,6 @@ body:
         - Windows
         - macOS
         - Linux
-        - Other
+        - Android
+        - iOS
+        - Web
