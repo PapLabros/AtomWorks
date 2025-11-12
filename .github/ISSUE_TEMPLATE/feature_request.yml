@@ -8,11 +8,6 @@ body:
     attributes:
       value: "We love ideas! Please describe your proposal clearly."
   - type: textarea
-    id: problem
-    attributes:
-      label: "Is your feature request related to a problem?"
-      placeholder: "I'm frustrated when..."
-  - type: textarea
     id: solution
     attributes:
       label: "Describe the solution you'd like"
